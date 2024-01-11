@@ -2,7 +2,7 @@
 
 
 # Overview
-This project is built in Python and use the TKinter module to create Graphical User Interface.
+This project is built in Python and use the `tkinter` module to create Graphical User Interface.
 
 # Instructions
 English users can enhance their French vocabulary by flipping through cards. Previously learned words will not be repeated in subsequent cards; instead, users will encounter only the word cards they have yet to master.
@@ -17,7 +17,7 @@ English users can enhance their French vocabulary by flipping through cards. Pre
 
 # Dependencies:
 1. Python v3.x is required.
-2. turtle module is also required.
+2. `tkinter` module is also required.
 
 # Contact
 Maisi Lin - [Linkedin](https://www.linkedin.com/in/maisi-lin-b66503228/)
