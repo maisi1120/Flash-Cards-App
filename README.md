@@ -1,4 +1,5 @@
-![cover-img](https://github.com/maisi1120/photo/assets/156170308/b7645781-e7cd-44b9-a621-43bb9a2b7787)
+![cover-img](https://github.com/maisi1120/photo/assets/156170308/557de31d-5438-45c3-8065-491ceb249ce2)
+
 
 
 # Overview
@@ -12,7 +13,8 @@ English users can enhance their French vocabulary by flipping through cards. Pre
 
 
 # Usage example
-![Screen Recording 2024-01-10 at 5 53 26 PM](https://github.com/maisi1120/photo/assets/156170308/fc9fea51-9336-4fbc-885a-01b13a970371)
+![Untitled (2)](https://github.com/maisi1120/photo/assets/156170308/3c6ca419-280f-43da-ae99-42ba4fb39894)
+
 
 
 # Dependencies:
